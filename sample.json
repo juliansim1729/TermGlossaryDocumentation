@@ -1,0 +1,23 @@
+{
+	"vocabulary": [
+        {
+			"word": "artifact",
+			"detail": {
+				"desc": "any object made by human beings, especially with a view to subsequent use",
+				"links": [
+					"https://www.dictionary.com/browse/artifact"
+				]
+			}
+		},
+		{
+			"word": "henchman",
+			"detail": {
+				"desc": "a trusted follower : a right-hand man",
+				"links": [
+					"https://www.merriam-webster.com/dictionary/henchman",
+					"https://www.dictionary.com/browse/henchman"
+				]
+			}
+		}
+	]
+}
