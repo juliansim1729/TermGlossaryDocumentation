@@ -1,7 +1,7 @@
 ---
 title: Development Blog
 description: A brief description of the dev process and a links to dev repos and the dev blog. 
-date: 2022-04-30
+date: 2022-05-02
 tags: 
 layout: layouts/post.njk
 ---

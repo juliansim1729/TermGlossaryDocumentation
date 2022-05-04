@@ -1,7 +1,7 @@
 ---
 title: Micro Front End Operations
 description: Generally how the micro front-end works
-date: 2022-05-02
+date: 2022-04-30
 tags: 
 layout: layouts/post.njk
 ---
